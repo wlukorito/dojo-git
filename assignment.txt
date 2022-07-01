@@ -1,0 +1,11 @@
+Assigment
+- clone dojo-git repository at: https://github.com/wlukorito
+- checkout a new branch named [first name]
+- inside src folder: create a file named [surname.js] and add a `console.log([Full-name])`
+- commit changes
+(notify on the group)
+
+// Pulling
+- Pull changes from main
+- Push
+- Create a PR (pull request)
