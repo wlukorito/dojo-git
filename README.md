@@ -16,3 +16,5 @@ It covers:
 - `git branch` - list all branches in repository
 - `git log` - commit history
 - `git checkout -b [new_branch_name]` - create a new branch and switch to it
+- `git push --set-upstream origin [new_branch_name]` - push new branch to remote
+- `git status` - status of the repo
