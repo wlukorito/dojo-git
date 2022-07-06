@@ -6,7 +6,7 @@ console.log("Learning git");
 //          move the `valid` logic into the return statement
 
 // updated by a form on the UI
-// from the variable formModel, if the values placed is empty or of different value after validation it should alert an error due it is false. this is achieved due to the return value.
+// The variable formModel, if the values placed is empty or of different value, after validation it should alert an error due it is false. this is achieved due to the return value.
 const formModel = {
   publicId: "",
   name: "",
